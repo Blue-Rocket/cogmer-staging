@@ -2,4 +2,4 @@
 # checksums.txt that authorize them, so moving hosts is one commit that changes both
 # together. install.sh appends /v<version>/<asset>, which is the shape GitHub serves
 # a release's assets at.
-https://github.com/Blue-Rocket/cogmer/releases/download
+https://github.com/Blue-Rocket/cogmer-staging/releases/download
